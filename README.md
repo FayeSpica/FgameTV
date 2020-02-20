@@ -5,9 +5,9 @@
 
 存在问题: 很多问题
 
-![img1.png](screenshot/1.jpg)  
-![img1.png](screenshot/2.jpg)
-![img1.png](screenshot/3.jpg)  
-![img1.png](screenshot/4.jpg)  
-![img1.png](screenshot/5.jpg)  
-![img1.png](screenshot/6.jpg)  
+![img1.png](screenshots/1.jpg)  
+![img1.png](screenshots/2.jpg)
+![img1.png](screenshots/3.jpg)  
+![img1.png](screenshots/4.jpg)  
+![img1.png](screenshots/5.jpg)  
+![img1.png](screenshots/6.jpg)  
