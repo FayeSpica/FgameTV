@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">企鹅电竞TV</string>
+    <string name="browse_title"><![CDATA[企鹅电竞]]></string>
+    <string name="related_movies">Related Videos</string>
+    <string name="grid_view">Grid View</string>
+    <string name="error_fragment">Error Fragment</string>
+    <string name="personal_settings">Personal Settings</string>
+    <string name="watch_trailer_1">Watch trailer</string>
+    <string name="watch_trailer_2">FREE</string>
+    <string name="rent_1">Rent By Day</string>
+    <string name="rent_2">From $1.99</string>
+    <string name="buy_1">Buy and Own</string>
+    <string name="buy_2">AT $9.99</string>
+    <string name="movie">Movie</string>
+
+    <!-- Error messages -->
+    <string name="error_fragment_message">An error occurred</string>
+    <string name="dismiss_error">Dismiss</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="hide_danmaku">隐藏弹幕</string>
+    <string name="show_danmaku">显示弹幕</string>
+    <string name="pause_danmaku">暂停</string>
+    <string name="resume_danmaku">resume</string>
+    <string name="send_danmaku">发送一条(纯文字)</string>
+    <string name="send_danmaku_image_text">发送一条(图文)</string>
+    <string name="send_danmakus">定时发送</string>
+    <string name="cancel_sending_danmakus">取消定时</string>
+
+    <string name="release">release</string>
+    <string name="rotate">旋转屏幕</string>
+</resources>
